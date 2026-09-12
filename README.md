@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **guravpratik52@gmail.com** For Collaboration/Project or An
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pratik-gurav-29838a420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guravpratik52@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pratik-gurav-29838a420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guravpratik52@gmail.com) 
 
 
 <!-- Snake Game Repo View -->
