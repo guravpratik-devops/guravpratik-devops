@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=190&section=header&text=DevOps%20is%20not%20a%20job%20title,%20it's%20a%20mindset.&fontAlign=50&fontAlignY=38&fontSize=25&fontColor=ffffff&font=Fira%20Code" width="100%" alt="Header" />
+</div>
+<br/> 
+
 # 💫 Hi 👋, I'm Pratik
 **A passionate Cloud & Devops Enthusiast**
 
@@ -35,4 +40,4 @@ Email Me 👉 ✉️ **guravpratik52@gmail.com** For Collaboration/Project or An
 ---
 [![](https://komarev.com/ghpvc/?username=guravpratik-devops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
