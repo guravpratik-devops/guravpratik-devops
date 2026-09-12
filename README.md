@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Patik
+# 💫 Hi 👋, I'm Pratik
 **A passionate Cloud & Devops Enthusiast**
 
 Email Me 👉 ✉️ **guravpratik52@gmail.com** For Collaboration/Project or Anything Else. 😊😊
