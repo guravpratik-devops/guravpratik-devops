@@ -27,7 +27,6 @@ Email Me 👉 ✉️ **guravpratik52@gmail.com** For Collaboration/Project or An
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=guravpratik-devops&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=guravpratik-devops&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=guravpratik-devops&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=guravpratik-devops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
