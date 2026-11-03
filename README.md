@@ -12,7 +12,8 @@ Email Me 👉 ✉️ **guravpratik52@gmail.com** For Collaboration/Project or An
 - [**EasyCRUD-web**](https://github.com/guravpratik-devops/EasyCRUD-web) - A streamlined web application for CRUD operations.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-gurav-29838a420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guravpratik52@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-gurav-29838a420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guravpratik52@gmail.com) USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__pratik__shirke_)
 
 
 <!-- Snake Game Repo View -->
